@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "211f6f5ef867c0ea",
+        "id": "76290e8ae2a5833c",
         "type": "tabs",
         "children": [
           {
-            "id": "806b1e051439b476",
+            "id": "0502d0a1d134221a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи.md",
+                "file": "DevOps/Linux/Linux для начинающих.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статьи"
+              "title": "Linux для начинающих"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Learning"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Learning"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -142,16 +140,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Learning"
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "2a310278ca19d932",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,13 +178,33 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "806b1e051439b476",
+  "active": "0502d0a1d134221a",
   "lastOpenFiles": [
-    "Learning.md",
+    "grep.md",
+    "DevOps/Linux/Linux для начинающих.md",
+    "Итоги. Структура Linux.md",
+    "HardLink и SoftLink.md",
+    "DevOps/Linux/Inode что это и зачем нужно.md",
+    "DevOps/Linux/Операционная система - общие сведения..md",
     "Статьи.md",
-    "Без названия",
-    "Курс Основы компьютерных и веб-технологий.md",
+    "Пакетные менеджеры.md",
+    "Права доступа.md",
+    "Процессы и systemd.md",
+    "Сеть.md",
+    "Bash и скрипты.md",
+    "linux.canvas",
+    "Без названия.canvas",
+    "Файловая система.md",
+    "Текстовый документ.txt",
+    "DevOps/Learning.md",
+    "DevOps/Linux",
+    "DevOps/Linux/Команды.md",
+    "DevOps",
+    "Канвас.md",
+    "DevOps/Linux/Примеры использования chmod.md",
+    "Без названия 1.md",
     "Добро пожаловать.md",
+    "Курс Основы компьютерных и веб-технологий.md",
     "Helloo.md"
   ]
 }
